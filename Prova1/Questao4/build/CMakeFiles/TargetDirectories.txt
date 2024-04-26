@@ -1,0 +1,3 @@
+/home/davi/Pessoal/Inatel/P5/S201/Questao4/build/CMakeFiles/rebuild_cache.dir
+/home/davi/Pessoal/Inatel/P5/S201/Questao4/build/CMakeFiles/edit_cache.dir
+/home/davi/Pessoal/Inatel/P5/S201/Questao4/build/CMakeFiles/Questao4.dir

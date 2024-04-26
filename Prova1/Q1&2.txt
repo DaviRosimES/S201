@@ -1,0 +1,19 @@
+Questão 1:
+(F) - A linguagem é Lua
+(V)
+(F) - A função não possui retorno, porém ela imprime os valores atualizados
+(F) - A função pode ser chamada com uma tabela vazia
+(F) - A saida será : 2
+1
+6
+16
+18
+1
+
+
+Questão 2:
+(V)
+(F) - A classe 'Persa' é a classe filha da classe 'Gato'
+(F) - O modificador 'virtual' possibilita o polimorfismo dentro do C++, podendo assim, o método ser usado em outra classe.
+(V)
+(F) - A classe 'Persa' tem apenas métodos públicos, os atributos que são herdados da classe 'Gato' são todos privados.

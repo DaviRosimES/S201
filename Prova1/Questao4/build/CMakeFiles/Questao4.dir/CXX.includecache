@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/davi/Pessoal/Inatel/P5/S201/Questao4/src/headers/animalcorrida.h
+string
+-
+
+/home/davi/Pessoal/Inatel/P5/S201/Questao4/src/headers/cavalo.h
+iostream
+-
+animalcorrida.h
+/home/davi/Pessoal/Inatel/P5/S201/Questao4/src/headers/animalcorrida.h
+
+/home/davi/Pessoal/Inatel/P5/S201/Questao4/src/main.cpp
+headers/cavalo.h
+/home/davi/Pessoal/Inatel/P5/S201/Questao4/src/headers/cavalo.h
+
